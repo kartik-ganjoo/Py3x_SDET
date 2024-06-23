@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1761689-1b89-47d3-93af-1c4321a4d7d1" name="Changes" comment="lab_001.py">
-      <change afterPath="$PROJECT_DIR$/Ex_06042024/lab_002.py" afterDir="false" />
+    <list default="true" id="c1761689-1b89-47d3-93af-1c4321a4d7d1" name="Changes" comment="assignment 2 added, all 4 questions.">
+      <change afterPath="$PROJECT_DIR$/Assignment_3/Q1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kartik-ganjoo"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kartik-ganjoo&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kartik-ganjoo/Py3x_SDET.git",
-    "accountId": "a2cba4a0-1af4-4071-81da-1c859b0a4f3c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kartik-ganjoo/Py3x_SDET.git&quot;,
+    &quot;accountId&quot;: &quot;a2cba4a0-1af4-4071-81da-1c859b0a4f3c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,6 +46,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Q4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Question_1.executor&quot;: &quot;Run&quot;,
     &quot;Python.lab_001.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -68,6 +73,55 @@
       <option name="presentableId" value="Default" />
       <updated>1718494494240</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding lab_002.py">
+      <option name="closed" value="true" />
+      <created>1718497758865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718497758865</updated>
+    </task>
+    <task id="LOCAL-00002" summary="assignment 1, Q1 added">
+      <option name="closed" value="true" />
+      <created>1718500089187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718500089187</updated>
+    </task>
+    <task id="LOCAL-00003" summary="assignment 1, Q2 added">
+      <option name="closed" value="true" />
+      <created>1718500777667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718500777667</updated>
+    </task>
+    <task id="LOCAL-00004" summary="assignment 1, Q3 added">
+      <option name="closed" value="true" />
+      <created>1718501208192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718501208192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="assignment 2 added, all 4 questions.">
+      <option name="closed" value="true" />
+      <created>1718587801335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718587801335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding lab_002.py" />
+    <MESSAGE value="assignment 1, Q1 added" />
+    <MESSAGE value="assignment 1, Q2 added" />
+    <MESSAGE value="assignment 1, Q3 added" />
+    <MESSAGE value="assignment 2 added, all 4 questions." />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment 2 added, all 4 questions." />
   </component>
 </project>
