@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1761689-1b89-47d3-93af-1c4321a4d7d1" name="Changes" comment="assignment 2 added, all 4 questions.">
-      <change afterPath="$PROJECT_DIR$/Assignment_3/Q1.py" afterDir="false" />
+    <list default="true" id="c1761689-1b89-47d3-93af-1c4321a4d7d1" name="Changes" comment="Added assignment 3, Q1">
+      <change afterPath="$PROJECT_DIR$/Assignment_3/Q2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718587801335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added assignment 3, Q1">
+      <option name="closed" value="true" />
+      <created>1719187064506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719187064506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +130,7 @@
     <MESSAGE value="assignment 1, Q2 added" />
     <MESSAGE value="assignment 1, Q3 added" />
     <MESSAGE value="assignment 2 added, all 4 questions." />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment 2 added, all 4 questions." />
+    <MESSAGE value="Added assignment 3, Q1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added assignment 3, Q1" />
   </component>
 </project>
